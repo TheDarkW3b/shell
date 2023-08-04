@@ -1,4 +1,4 @@
-user umsftp ftp@123!2)17
 open 112.196.62.11
+user umsftp ftp@123!2)17
 cd umsweb
 ls
